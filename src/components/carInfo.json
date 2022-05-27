@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "title": "Model S",
+        "description": "Order Online for Touchless Delivery",
+        "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/538ac149-d103-4834-9d38-641d8ae447ef/bvlatuR/std/4096x2560/Homepage-Model-S-Desktop-LHD",
+        "range": "390",
+        "time": "1.99",
+        "topSpeed": "200",
+        "peakPower": "1,020",
+        "leftBtnText":"Custom Order",
+        "rightBtnText":"Existing Inventory"
+    },
+    {
+        "id": "2",
+        "title": "Model 3",
+        "description": "Order Online for Touchless Delivery",
+        "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/03e533bf-8b1d-463f-9813-9a597aafb280/bvlatuR/std/4096x2560/M3-Homepage-Desktop-LHD",
+        "range": "400",
+        "time": "2.99",
+        "topSpeed": "180",
+        "peakPower": "900",
+        "leftBtnText":"Custom Order",
+        "rightBtnText":"Existing Inventory"
+    },
+    {
+        "id": "3",
+        "title": "Model X",
+        "description": "Order Online for Touchless Delivery",
+        "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/ddc135ed-1638-40fb-8ab1-f8045059ecef/bvlatuR/std/4096x2560/Homepage-Model-X-Desktop-LHD",
+        "range": "350",
+        "time": "1.55",
+        "topSpeed": "150",
+        "peakPower": "1,130",
+        "leftBtnText":"Custom Order",
+        "rightBtnText":"Existing Inventory"
+    },
+    {
+        "id": "4",
+        "title": "Model Y",
+        "description": "Order Online for Touchless Delivery",
+        "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/0x0/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0",
+        "range": "410",
+        "time": "2.05",
+        "topSpeed": "190",
+        "peakPower": "1,040",
+        "leftBtnText":"Custom Order",
+        "rightBtnText":"Existing Inventory"
+    },
+
+    {
+        "id": 4,
+        "title":"Lowest Cost Solar Panels in America",
+        "description":"Money-back guarantee",
+        "image":"https://tesla-cdn.thron.com/delivery/public/image/tesla/27d0055c-b0bf-476c-b3aa-ec59d314f871/bvlatuR/std/0x0/27d0055c-b0bf-476c-b3aa-ec59d314f871",
+        "leftBtnText":"Order Now",
+        "rightBtnText":" Learn More"
+
+
+    },
+    {
+        "id": 5,
+        "title":"Solar for New Roofs",
+        "description":"Solar Roofs Cost Less Than a New Roof Plus Solar Panels",
+        "image":"https://www.tesla.com/sites/default/files/energy-page/energy-hero/D-energy-hero.jpg",
+        "leftBtnText":"Order Now",
+        "rightBtnText":" Learn More"
+
+
+    },
+    {
+        "id": 6,
+        "title":"Accesories",
+        "description":"",
+        "image":"https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/0x0/dd739764-bcaa-4263-9488-8c73bc9fb046",
+        "leftBtnText":"Order Now"
+        
+
+
+    }
+]

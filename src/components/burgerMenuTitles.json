@@ -1,0 +1,51 @@
+[
+    {   "id":1,
+        "key":"#1",
+        "menuTitle":"Model S"
+    },
+    {
+        "id":2,
+        "key":"#2",
+        "menuTitle":"Model 3"
+    },
+    {
+        "key":3,
+        "menuTitle":"Model X"
+    },
+    {
+        "key":4,
+        "menuTitle":"Model Y"
+    },
+    {
+        "menuTitle":" Existing Inventory"
+    },
+    {
+        "menuTitle":"Used Inventory"
+    },
+    {
+        "menuTitle":"Trade-In"
+    },
+    {
+        "menuTitle":"Cybertruck"
+    },
+    {
+        "menuTitle":"Roadster"
+    },
+    {
+        "menuTitle":"Semi"
+    },
+    {
+        "menuTitle":"Charging"
+    },
+    {
+        "menuTitle":"Power"
+    },
+    {
+        "menuTitle":"COM"
+    },
+    {
+        "menuTitle":"Utilities"
+    },  {
+        "menuTitle":"Test Drive"
+    }
+]
