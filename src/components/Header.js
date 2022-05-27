@@ -34,7 +34,7 @@ function Header(props) {
   return (
     <Container>
         <a href='https://www.tesla.com/de_de'>
-             <img src="/images/logo.svg" alt=''/>
+             <img src={process.env.PUBLIC_URL+"/images/logo.svg "} alt="tesla-icon"/>
         </a>
         <Menu>
             {menuElements}
