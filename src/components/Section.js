@@ -67,8 +67,7 @@ background-color: var(--btn-background);
 width:15em;
 height:2.5em;
 margin:.5em 1.5em 1em 1.5em;
-
-color:white;
+color:var(--background-w);
 display:flex;
 align-items:center;
 justify-content:center;
